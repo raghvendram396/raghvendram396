@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raghvendra Mishra
-- 🌱 I'm 3rd year student of CSE at NIT Patna.
+- 🌱 I'm Final year student of CSE at NIT Patna.
 - 👀 I’m interested in Web development and Competitive Coding.
 - 💞️ I'm MERN stack developer/Full stack develper.
 - 📫 You can reach me on my LikedIn: https://www.linkedin.com/in/raghvendra-mishra-5888a41a3/
